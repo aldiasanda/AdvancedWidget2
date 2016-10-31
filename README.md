@@ -1,12 +1,16 @@
 # AdvancedWidget2
 
 ## Screenshot 
-![screenshot_2016-10-31-10-42-04](https://cloud.githubusercontent.com/assets/22438078/19843596/b328b860-9f56-11e6-8ea9-5f4b3c30bba4.jpg)
-![screenshot_2016-10-31-10-42-12](https://cloud.githubusercontent.com/assets/22438078/19843597/b329baa8-9f56-11e6-85ec-d0b1e708b4f0.jpg)
+![screenshot_2016-10-31-19-47-47](https://cloud.githubusercontent.com/assets/22438078/19854847/ca9dcc0e-9fa3-11e6-834b-6a51071b4fc5.jpg)
+![screenshot_2016-10-31-19-47-59](https://cloud.githubusercontent.com/assets/22438078/19854848/caa553ac-9fa3-11e6-9fa6-d685a0d7b191.jpg)
 ## Identitas
 
-Nama  : Alifian Diasanda
+Nama          : Alifian Diasanda
 
-Kelas : XII RPL 5
+Kelas         : XII RPL 5
 
-No    : 01
+No            : 01
+
+NIS           : 4284/1182.063
+
+Nama Sekolah  : SMK Telkom Malang
